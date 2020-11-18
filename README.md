@@ -1,8 +1,13 @@
 ### Hi, I'm David and I build crazy 💩. Let's talk about it! 
+
 Interested in building a flaming pumpkin? I got u.
+
 ![Flaming Pumpkin](pumpkin.gif) 
+
 Wanna see a music powered christmas tree? I got u there too! 
+
 ![Musical Tree](tree_trimmed.gif)
+
 These are just a few examples of the stuff I've built, engage with me on social to uncover more. 
 
 <!--
